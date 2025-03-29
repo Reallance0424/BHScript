@@ -42,7 +42,7 @@ createHeadButton("BlazeBurner Head", 3210773801)
 createHeadButton("Headless", 134082579)
 
 -- Girl/Boy Section
-local CharacterSection = MainTab:AddSection({ "Girl/Boy" })
+local CharacterSection = MainTab:AddSection({ "Bundle Girl & Boy" })
 local function createCharacterButton(name, ids)
     MainTab:AddButton({
         Name = name,
