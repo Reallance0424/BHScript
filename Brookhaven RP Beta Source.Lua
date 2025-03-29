@@ -1,4 +1,4 @@
--- Change something it will not work
+-- Change something and it will not work
 -- Made by Lancelot/mozehw0lf
 
 local Library = loadstring(game:HttpGet("https://raw.githubusercontent.com/Venom-devX/RedzLibrary/main/redzui.lua"))()
